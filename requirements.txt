@@ -9,6 +9,7 @@ urllib3
 protobuf-decoder
 pytz
 aiohttp
+gunicorn
 cfonts
 flask
 flask-socketio
