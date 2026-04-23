@@ -10,6 +10,7 @@ protobuf-decoder
 pytz
 aiohttp
 gunicorn
+eventlet>=0.40.3
 cfonts
 flask
 flask-socketio
